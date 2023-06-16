@@ -1,8 +1,8 @@
 # Data Analysis Projects
 Portfolio of some personal data analysis projects. More on the way!
-1. [Persistent Homology of Stack Overflow Tags](https://github.com/daniel-rossano/Data-Analysis-Projects/edit/main/README.md#persistent-homology-of-stack-overflow-tags)
-2. [Visualizing Stack Overflow Tags](https://github.com/daniel-rossano/Data-Analysis-Projects/edit/main/README.md#visualizing-stack-overflow-tags)
-3. [Recommendation System for Stack Overflow Users](https://github.com/daniel-rossano/Data-Analysis-Projects/edit/main/README.md#recommendation-system-for-stack-overflow-users)
+1. [Persistent Homology of Stack Overflow Tags](https://github.com/daniel-rossano/Data-Analysis-Projects#persistent-homology-of-stack-overflow-tags)
+2. [Visualizing Stack Overflow Tags](https://github.com/daniel-rossano/Data-Analysis-Projects#visualizing-stack-overflow-tags)
+3. [Recommendation System for Stack Overflow Users](https://github.com/daniel-rossano/Data-Analysis-Projects#recommendation-system-for-stack-overflow-users)
 ## Persistent Homology of Stack Overflow Tags
 In my first project, I tried to [compute the persistent homology of the most popular Stack Overflow tags](https://github.com/daniel-rossano/Data-Analysis-Projects/blob/main/Persistent%20Homology%20SO%20Tags/Persistent%20Homology%20of%20Stack%20Overflow%20Tags.ipynb) to understand how they are linked together. Although it is not perfect, it was done to learn some techniques on working with large data sets in pandas. The project is saved as a Jupyter Notebook, and all relevant data has been made available along with the barcode and persistence diagram. <img src="https://user-images.githubusercontent.com/123789570/246283541-32f5d9b1-0af4-4342-88a5-74494eede5e1.png" width="50%" height="50%"/>
 
